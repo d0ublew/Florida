@@ -1,3 +1,12 @@
+From d7201c32bd8cf347cacd7427a942e0e0188045a1 Mon Sep 17 00:00:00 2001
+From: Ylarod <me@ylarod.cn>
+Date: Tue, 18 Jul 2023 15:51:29 +0800
+Subject: [PATCH 10/9] Florida: port
+
+---
+ lib/base/socket.vala | 2 +-
+ 1 file changed, 1 insertions(+), 1 deletions(-)
+
 diff --git a/lib/base/socket.vala b/lib/base/socket.vala
 index 07b6ab0..5dcc9bd 100644
 --- a/lib/base/socket.vala
